@@ -14,7 +14,7 @@ To conduct this analysis, we will use a dataset that can be accessed at [http://
 
 Notebook --> Google Colab
 
-languages --> Pyhon
+languages --> Python
 
 ## Prediction
 
